@@ -6,7 +6,7 @@ You'll need `council-ai`:
 
 `pip install council-ai`
 
-Then just run `chat.py`. 
+Make sure your OpenAI API key is defined in .env. Then just run `chat.py`.
 
 ### Usage
 ```
